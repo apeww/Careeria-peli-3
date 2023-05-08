@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - EnemyBullet
+  - coin
   layers:
   - Default
   - TransparentFX
