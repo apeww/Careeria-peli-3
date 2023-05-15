@@ -16,4 +16,8 @@ public class teksti : MonoBehaviour
             pointsText.text = "Koodauksia tehty: " + Points;
         }
     }
+    private void OnTriggerExit(Collider other)
+    {
+
+    }
 }
